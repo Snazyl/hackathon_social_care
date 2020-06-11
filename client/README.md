@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 RUN THE BELOW SCRIPT IN THE ROOT FOLDER FOR ALL DEPENDENCIES 
 
-## 'npm run client-install'
+## `npm run client-install`
 
 ## Available Scripts
 
