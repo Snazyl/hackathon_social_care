@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+RUN THE BELOW SCRIPT IN THE ROOT FOLDER FOR ALL DEPENDENCIES 
+
+## 'npm run client-install'
+
 ## Available Scripts
 
 In the project directory, you can run:
